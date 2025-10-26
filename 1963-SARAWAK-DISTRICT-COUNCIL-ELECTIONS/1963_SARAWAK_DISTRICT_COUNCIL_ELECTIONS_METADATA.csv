@@ -1,0 +1,36 @@
+﻿Created on,26/10/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Tindak Malaysia (2025), Sarawak Gazette Issue 1266 (1963) ( https://www.pustaka-sarawak.com/gazette/gazette_uploaded/1404372154.pdf). Refer to Other Sources section of the Metadata to know other relevant references"
+Disclaimers,"There are 998 candidates for these elections. 2 candidates data are missing. According to the Sarawak Gazette, there were 205 SUPP candidates, 272 Alliance candidates, 109 PANAS candidates, and 412 Independent candidates. Only four candidates classified as female candidates are backed with evidence from the Sarawak Gazette. Sex Category of the remaining candidates is are mixture of deduction from names, selected sources in Other Sources section, and guesswork. In terms of the winner count, Sarawak Gazette, 116 SUPP candidates won, 59 PANAS winners, 138 Alliance winners, and 116 Independents. Tindak Malaysia finds there is conflicting information for the winner count for Sibu Rural (3 or 4 for Alliance and 6 or 7 for Independents) and Bintulu (1 or 2 for SUPP and 8 or 9 for Alliance). This resulted in conflicting the winner count for all parties and independents for this election. Elections were done in a mixture of single and multiple-member wards (where multiple candidates get elected in a single ward). Due to this, the total valid vote count for the result file cannot be matched for the selected district councils (Bau District Council, Kuching Municipal Council, Batang Lupar District Council, Sibu Rural District Council, Sibu Urban District Council, Baram District Council, Bintulu District Council, Miri District Council, and Lawas District Council). Since voters were instructed to select as many candidates as the number of positions available in each ward, the total number of votes recorded in these wards would be approximately two to five times higher than the actual number of voters. However, because not all voters chose the maximum number of candidates, it is not possible to determine the exact voting statistics There is missing contestant (s) data for Batang Ai Right Bank (Lubok Antu District Council). There is missing contestant (s) data for Dassan (Sibu Rural District Council). TindakMalaysia is not responsible for errors and omissions arising from this dataset"
+,
+Other Sources,
+https://go.gale.com/ps/i.do?id=GALE%7CA93533236&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00067806&p=AONE&sw=w&userGroupName=anon%7E7345975f&aty=open-web-entry,
+https://github.com/TindakMalaysia/HISTORICAL-ELECTION-RESULTS/blob/main/1974-ELECTION-RESULTS/MALAYSIA_1974_DUN_RESULTS.csv,
+https://www.researchgate.net/publication/275833822_Biography_Unsung_heroes_of_Barbara_Mendu_Bay,
+https://web.facebook.com/historyinsightsMY/posts/tawi-slidato-sri-penghulu-tawi-sli-12-june-1912-22-december-1987-was-the-second-/1467486317676452/?_rdc=1&_rdr#,
+https://web.facebook.com/BorneoOracle/photos/tan-sri-datuk-amar-stephen-kalong-ningkan-ketua-menteri-sarawak-yang-pertama-196/910214412358777/?locale=ms_MY&_rdc=1&_rdr#,
+https://web.facebook.com/photo/?fbid=1614861955391861&set=pcb.1614862075391849,
+http://lib.perdana.org.my/PLF/News_2007/SPECIAL/OTHERS/STAR-27052007.pdf,
+https://web.facebook.com/philip.hii.94/posts/the-good-old-days-17-the-late-datuk-amar-ling-beng-siong-right-at-the-old-sibu-a/10162308667862499/?_rdc=1&_rdr#,
+"Tilman, Robert O. “Elections in Sarawak.” Asian Survey, vol. 3, no. 10, 1963, pp. 507–18. JSTOR, https://doi.org/10.2307/3023452. Accessed 26 Oct. 2025.",
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+COUNCIL,Name of the Council
+DIVISION,Name of the Division
+WARD NUMBER,Ward Number of the Council (as provided by the August 1963 Sarawak Gazette)
+WARD NAME,Ward Name of the Council
+COALITION/PARTY,Name of the Contesting Coalition/ Party/ Independent
+CANDIDATE NAME,Name of the Contesting Candidate
+CANDIDATE SEX,Sex Category of the Contesting Candidate
+CANDIDATE AGE,Age Category of the Contesting Candidate
+CANDIDATE VOTES,Valid votes of the Contesting Candidate
+STATUS,Won/ Lost/ Lost Deposit for each Contesting Candidate
+UNCONTESTED VICTORY,"The candidate's victory is due to the uncontested nature (Y). If there is a contest, N is affixed"
+,
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+SUPP,Sarawak United People's Party
+Alliance,Sarawak Alliance Party
+PANAS,Parti Negara Sarawak
