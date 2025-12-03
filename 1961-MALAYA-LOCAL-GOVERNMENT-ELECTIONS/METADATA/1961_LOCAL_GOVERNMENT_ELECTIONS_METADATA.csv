@@ -1,0 +1,28 @@
+﻿Created on,3/12/2025
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,Local Authority Elections 1961: Results & Statistics of Voting (by Election Commission). Refer to 1961_MALAYA_LOCAL_GOVERNMENT_ELECTION_OTHER_SOURCES
+Disclaimers,"Candidate spellings follow EC spelling standards. There are gaps for candidate age and sex category. There remains an incomplete association of parties with the Alliance Coalition. No data available for the component parties for the Socialist Front. Lau Oh Toh (Paul Street Ward, Seremban) is a PPP member but opted to contest as an independent. Some councils elect more than one councillor. In the case of two-member wards, a ballot paper may be used to record two votes. In the case of three-member wards, a ballot paper may be used to record three votes. There is no information on candidates losing a deposit, and hence, this information is not added to the election results. No Information on the type of electoral roll used for the 1961 Malayan Local Government Elections. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+LOCAL AUTHORITY AREA,Name of the Local Council
+LOCAL AUTHORITY WARD,Ward Name of the Local Council
+COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejected Ballots/ Total Ballot Issued/ Total Electorate/Turnout (%)
+CANDIDATE NAME,Name of the Contesting Candidate
+CANDIDATE SEX,Sex Category of the Contesting Candidate
+CANDIDATE AGE,Age of the Contesting Candidate
+VOTES,Votes for Candidates and Count of Rejected Ballots
+STATUS,Won/ Lost Status for the Candidates
+UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+SF,Malayan People's Socialist Front
+UMNO,United Malays National Organisation
+MCA,Malayan Chinese Association
+MIC,Malayan Indian Congress
+M.P.,Malayan Party
+NEGARA,Parti Negara
+PMIP,Pan Malayan Islamic Party
+PPP,People's Progressive Party
