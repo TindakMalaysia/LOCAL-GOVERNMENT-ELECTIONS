@@ -1,8 +1,45 @@
-﻿Created on,3/12/2025
+﻿Created on,"3/12/2025, updated on 11/12/2025"
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
 Sources,Local Authority Elections 1961: Results & Statistics of Voting (by Election Commission). Refer to 1961_MALAYA_LOCAL_GOVERNMENT_ELECTION_OTHER_SOURCES
-Disclaimers,"Candidate spellings follow EC spelling standards. There are gaps for candidate age and sex category. There remains an incomplete association of parties with the Alliance Coalition. No data available for the component parties for the Socialist Front. Lau Oh Toh (Paul Street Ward, Seremban) is a PPP member but opted to contest as an independent. Some councils elect more than one councillor. In the case of two-member wards, a ballot paper may be used to record two votes. In the case of three-member wards, a ballot paper may be used to record three votes. No Information on the type of electoral roll used for the 1961 Malayan Local Government Elections. There is a dispute in distribution of candidates losing deposit in Trengganu where EC claims PMIP had 9 candidates lost deposit and Socialist Front had 5 candidates lost deposit. However, According to The Straits Times, 5 July 1961, Page 7, PMIP had 8 candidate lost deposit (5 in Besut, 2 in Kuala Trengganu and 1 in Kemaman). Lost Deposit tags for Besut wards of Kampong Raja Tengah, Seberang Pantai Barat and Bandar Jerteh Utara are guessed.Lost Deposit for PMIP for Kampong Besut (Local Authority Area of Kemaman) is guessed. Turnout level values reflect EC's reporting. There are discrepancy from EC's reporting on voter turnout for Losong, Pasir Panjang, Paya Bunga, Pejabat Bandaran and Pulau Kambing Wards (Local Authority Area of Kuala Terengganu). There is discrepancy from EC's reporting on voter turnout for Sungei Bakap Selatan Ward (LOCAL AUTHORITY AREA OF DISTRICT COUNCIL SOUTH, PROVINCE WELLESLEY). There are discrepancies with EC reporting for Balai Polis Ward, Custom Ward and Misjid Kangar Ward (Local Authority Area of Kangar, Perlis). TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+Disclaimers,"Candidate spellings follow EC spelling standards. There are gaps for candidate age and sex category.  No data available for the component parties for the Socialist Front. In the case of two-member wards, a ballot paper may be used to record two votes. In the case of three-member wards, a ballot paper may be used to record three votes. No Information on the type of electoral roll used for the 1961 Malayan Local Government Elections. Turnout level values reflect EC's reporting. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,Discrepancies by State
+,Negri Sembilan
+,"Lau Oh Toh (Paul Street Ward, Seremban) is a PPP member but opted to contest as an independent. Some councils elect more than one councillor."
 ,
+,Kedah
+,There remains an incomplete association of parties with the Alliance Coalition for Bakar Arang Ward (Sungei Petani) and Bakar Sampah Ward (Kulim)
+,
+,Kelantan
+,Missing information for the four Parti Negara candidates who lost deposit
+,
+,Malacca
+,Party Association for Jasin Selatan Ward (Jasin Rural) and Ujong Pasir Ward (Town and Port of Malacca) are guessed
+,Lost Deposit association for Socialist Front candidate is guessed
+,
+,Pahang
+,Party Association for Sungei Semantan Timor Ward (Temerloh and Mentekab) and Jalan Pahang Tengah Ward (Kuala Lipis) are guessed
+,Lost Deposit association for PMIP candidate is guessed
+,
+,Penang
+,"There is discrepancy from EC's reporting on voter turnout for Sungei Bakap Selatan Ward (LOCAL AUTHORITY AREA OF DISTRICT COUNCIL SOUTH, PROVINCE WELLESLEY)."
+,
+,Perlis
+,"There are discrepancies with EC reporting for Balai Polis Ward, Custom Ward and Misjid Kangar Ward (Local Authority Area of Kangar, Perlis)."
+,
+,Trengganu
+,"There is a dispute over the distribution of candidates who lost their deposits in Trengganu, where EC claims that PMIP had 9 candidates lose their deposits and Socialist Front had 5. However, according to The Straits Times, 5 July 1961, Page 7, PMIP had 8 candidates who lost their deposits (5 in Besut, 2 in Kuala Trengganu, and 1 in Kemaman)."
+,"Lost Deposit tags for Besut wards of Kampong Raja Tengah, Seberang Pantai Barat and Bandar Jerteh Utara are guessed."
+,Lost Deposit for PMIP for Kampong Besut (Local Authority Area of Kemaman) is guessed.
+,"There are discrepancy from EC's reporting on voter turnout for Losong, Pasir Panjang, Paya Bunga, Pejabat Bandaran and Pulau Kambing Wards (Local Authority Area of Kuala Terengganu)"
+,
+,Johore
+,"According to The Straits Times, 25 April 1961, Page 5, there are 86 seats. EC wrongly attribute the count to 87"
+,Johore statistics of 1961 by EC for total votes for each coalition/party are errorneous
+,"According to The Straits Times, 24 July 1961, Page 1, the candidate for Dorset Ward (Kluang) is Socialist Front. EC wrongly attributed the candidate to Alliance"
+,"According to The Straits Times, 25 May 1961, Page 16, sole winner of Misjid Lama Ward (Kluang) is an independent. EC wrongly attributed the candidate to Alliance"
+,"According to The Straits Times, 25 May 1961, Page 16, sole winner of Kampong Bharu Ward (Kluang) is a Socialist Front candidate. EC wrongly attributed to Alliance"
+,EC claims the Rejected vote is 638
+,EC wrongly stated PPP has two candidates losing deposit despite there are no PPP candidates for Johore. EC claims there were two independent candidates lost deposit. Insufficient evidence for the second independent losing deposit
 ,
 Attribute,
 ,
@@ -26,10 +63,3 @@ M.P.,Malayan Party
 NEGARA,Parti Negara
 PMIP,Pan Malayan Islamic Party
 PPP,People's Progressive Party
-
-
-
-
-
-
-
