@@ -1,12 +1,17 @@
 ﻿Created on,22/12/2025
 Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
 Sources,"Report of the Introduction of Elections in the Municipality of George Town, Penang, 1951. Refer to Other Sources section of the Metadata to learn additional sources used for the data sheets"
-Disclaimers,"Candidate spellings follow 1951 report of George Town Elections. There are alternate values for total ballot issued for Tanjong (5431), Kelawei  (2439) and Jelutong (4293). No definitions provided for spoilt papers and tendered votes. All wards are multi members and voters may cast for more than one candidate per ward. Due to this, total valid votes for all candidates do not tally up for total ballots issued. No information about candidates losing deposits. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+Disclaimers,"Candidate spellings follow 1951 report of George Town Elections. There are alternate values for total ballot issued for Tanjong (5431), Kelawei  (2439) and Jelutong (4293). No definitions provided for spoilt papers and tendered votes. All wards are multi members and voters may cast for more than one candidate per ward. Due to this, total valid votes for all candidates do not tally up for total ballots issued. All e No information about candidates losing deposits. No elections for Municipality of Malacca as all candidates won uncontested. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
 ,
 Other Sources,
+Penang,
 "Sunday Standard, 28 October 1951, Page 5",
 "The Straits Times, 1 November 1951, Page 7",
 "Singapore Standard, 14 November 1951, Page 5",
+Malacca,
+"Singapore Standard, 20 July 1951, Page 4",
+"Singapore Standard, 6 November 1951, Page 4",
+"The Straits Times, 6 November 1951, Page 1",
 ,
 Attribute,
 ,
@@ -17,11 +22,12 @@ COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejecte
 CANDIDATE NAME,Name of the Contesting Candidate
 CANDIDATE SEX,Sex Category of the Contesting Candidate
 CANDIDATE AGE,Age of the Contesting Candidate
-VOTES,Votes for Candidates and Count of Rejected Ballots
+VOTES,"Votes for Candidates,Total Electors, Count for Rejected Ballots/Spoilt Papers/Tendered Votes/Total Ballot Issued, Turnout (%)
 STATUS,Won/ Lost
 UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
 ,
 KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 UMNO,United Malays National Organisation
 RADICAL,Penang Radical Party
-LABOUR,Penang Labour Party
+LABOUR,"Penang Labour Party/ (for Malacca, it would be Labour Party)"
+
