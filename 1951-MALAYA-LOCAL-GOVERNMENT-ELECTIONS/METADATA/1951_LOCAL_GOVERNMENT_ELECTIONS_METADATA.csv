@@ -22,7 +22,7 @@ COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejecte
 CANDIDATE NAME,Name of the Contesting Candidate
 CANDIDATE SEX,Sex Category of the Contesting Candidate
 CANDIDATE AGE,Age of the Contesting Candidate
-VOTES,"Votes for Candidates,Total Electors, Count for Rejected Ballots/Spoilt Papers/Tendered Votes/Total Ballot Issued, Turnout (%)
+VOTES,"Votes for Candidates,Total Electors, Count for Rejected Ballots/Spoilt Papers/Tendered Votes/Total Ballot Issued, Turnout (%)",
 STATUS,Won/ Lost
 UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
 ,
@@ -30,4 +30,5 @@ KEY ABBREVIATIONS FOR POLITICAL PARTIES,
 UMNO,United Malays National Organisation
 RADICAL,Penang Radical Party
 LABOUR,"Penang Labour Party/ (for Malacca, it would be Labour Party)"
+
 
