@@ -1,0 +1,54 @@
+﻿Created on,4/2/2026
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,Local Authority General Elections 1963 and also General Elections to Local Councils in Trengganu in 1963: Results and Statistics of Voting. Refer to 1963_MALAYA_LOCAL_GOVERNMENT_ELECTION_OTHER_SOURCES
+Disclaimers,"Candidate spellings follow EC spelling standards. There are gaps for candidate age and sex category.  No data available for the component parties for the Socialist Front. In the case of two-member wards, a ballot paper may be used to record two votes. In the case of three-member wards, a ballot paper may be used to record three votes. No Total Ballot Issued values for multi-member wards as no information on unique ballot count was provided. No Information on the type of electoral roll used for the 1963 Malayan Local Government Elections. Turnout level values reflect EC's reporting. The file of Election Details is a combination of EC reported information, The Straits Times and other sources. Voting Electorate refers to electorate size of contested wards. The areas of ten local councils of Trengganu (that were used for 1962 local elections) were deemed too big for effectiveness and efficiency of local government administration. Out of 10 local councils, seven were re-established (Kuala Trengganu Utara, Kuala Trengganu Barat, Kuala Trengganu Selatan, Paka, Kemaman, Besut). Candidate of Darat Makbar Timor Ward (Kuantan) association with MIC is guessed. The name of MCA Candidate of Temiang Atas Ward (Seremban) is not very clear. Candidates of Rim Ward (Jasin) association with MIC is guessed. The UDP candidate of Ujong Pasir Ward (Municipality of Town and Fort of Malacca) was former UMNO member who contested as protest of UMNO's fielding of J.L. D'Cruz (who is UMNO associate member). TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,Discrepancies by State
+,Malacca
+,"EC report claims the total Alliance vote is 48895, Tindak compilation states is 48893"
+,"EC report claims the total PMIP vote is 5928, Tindak compilation states is 5929"
+,"EC report claims the total elector count is 97267, Tindak compilation states is 95417"
+,
+,Penang
+,"EC report claims the total Alliance vote is 73408, Tindak compilation states is 73406"
+,"EC report claims the total UDP vote is 27209, Tindak compilation states is 27205"
+,"EC report claims the total Socialist Front vote is 57884, Tindak compilation states is 57842"
+,"EC report claims the total elector count is 218997, Tindak compilation states is 218727"
+,"EC report claims the total rejected votes is 3353, Tindak compilation states is 3453"
+,
+,Perak
+,"EC report claims the total Alliance vote is 35738, Tindak compilation states is 35756"
+,"EC report claims the total elector count is 111166, Tindak compilation states is 110130"
+,
+,Selangor
+,"EC report claims the total PPP vote is 3418, Tindak compilation states is 3428"
+,
+,Trengganu
+,"EC report claims the total Alliance vote is 9677 (Local Authority Areas), Tindak compilation states is 9740 (Local Authority Areas)"
+,"EC report claims the total ballot issued is 20435 (Local Authority Areas), Tindak compilation states is 20422 (Local Authority Areas)"
+,"EC report claims the total elector count is 29809 (Local Authority Areas), Tindak compilation states is 29787 (Local Authority Areas)"
+,"EC report claims the total PMIP vote is 6602 (Local Council Areas), Tindak compilation states is 6734 (Local Council Areas)"
+,"EC report claims the total Negara vote is 5617 (Local Council Areas), Tindak compilation states is 5385 (Local Council Areas)"
+,"According to Straits Times 4/8/1963, for local councils, there were 22 PMIP candidates and 22 Negara Candidates (though evidence is lacking for such numbers)"
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+LOCAL AUTHORITY AREA,Name of the Local Council
+LOCAL AUTHORITY WARD,Ward Name of the Local Council
+COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejected Ballots/ Total Ballot Issued/ Total Electorate/Turnout (%)
+CANDIDATE NAME,Name of the Contesting Candidate
+CANDIDATE SEX,Sex Category of the Contesting Candidate
+CANDIDATE AGE,Age of the Contesting Candidate
+VOTES,Votes for Candidates and Count of Rejected Ballots
+STATUS,Won/ Lost/ Lost Deposit Status for the Candidates
+UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+SF,Malayan People's Socialist Front
+UMNO,United Malays National Organisation
+MCA,Malayan Chinese Association
+MIC,Malayan Indian Congress
+UDP,United Democratic Party
+NEGARA,Parti Negara
+PMIP,Pan Malayan Islamic Party
+PPP,People's Progressive Party
