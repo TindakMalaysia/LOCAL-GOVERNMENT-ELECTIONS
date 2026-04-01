@@ -1,0 +1,79 @@
+﻿Created on,1/4/2026
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,Local Council Elections 1962: Results & Statistics of Voting (by Election Commission). Refer to 1962_MALAYA_LOCAL_GOVERNMENT_ELECTION_OTHER_SOURCES
+Disclaimers,"Candidate spellings follow EC spelling standards. There are gaps for candidate age and sex category.  No data available for the component parties for the Socialist Front. In the case of two-member wards, a ballot paper may be used to record two votes. In the case of three-member wards, a ballot paper may be used to record three votes. No Total Ballot Issued values for multi-member wards, as no information on unique ballot count was provided. Turnout level values reflect EC's reporting. The file of Election Details is a combination of EC-reported information and The Straits Times information. Voting Electorate refers to the electorate size of contested wards. Information for candidates losing deposits are guessed as the EC didn't provide detailed information. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,Discrepancies by State
+,
+,Johore
+,"EC Summarised Tally claims no PPP win in Johor, though PPP won 4 seats (The Straits Times, 1 June 1962, Page 6)"
+,EC report states total votes for Alliance is 74548 while Tindak computations state it is 74337
+,EC report states total votes for SF is 41385 while Tindak computations state it is 42139
+,EC report states the total rejected vote count is  2079 while Tindak computations state it is 2096
+,EC report states the total electorate count is  54909 while Tindak computations state it is 54911
+,
+,Kedah
+,"EC report states total votes for Alliance is 13639, while Tindak computations state it is 14340"
+,"EC report states total votes for PMIP is 3004, while Tindak computations state it is 3306"
+,"EC report states total votes for Independents is 3146, while Tindak computations state it is 3113"
+,"EC report states total rejected vote count is 161, while Tindak computations state it is 158"
+,"EC report states the total electorate is 12282, while Tindak computations state it is 11647"
+,
+,Kelantan
+,Data verification could not be done due to absence of data of selected local councils
+,
+,Malacca
+,Party Association for Jasin Selatan Ward (Jasin Rural) and Ujong Pasir Ward (Town and Port of Malacca) are guessed
+,Lost Deposit association for Socialist Front candidate is guessed
+,
+,Negri Sembilan
+,"EC report states total votes for SF is 8617, while Tindak computations state it is 7937 votes"
+,
+,Pahang
+,"EC report states total votes for Alliance is 18650, while Tindak computations state it is 18667"
+,"EC report states total votes for SF is 7609, while Tindak computations state it is 7612"
+,Lost Deposit association for SF candidate for Kampong Jerkoh Ward (Jerkoh Local Council) local council is guessed
+,Lost Deposit association for Independent candidate for Kampong Kelapa Ward (Benta Local Council) is guessed
+,
+,Perak
+,"Local Councils of Bidor and Temoh subsequently underwent dissolution in October 1962 due to the inability to elect Chairman and Deputy Chairman (The Straits Budget, 24 October 1962, Page 11). However, EC deferred the elections in 1962 due to ward boundary alteration and electoral roll register revisions"
+,"Alliance had 5 candidates lost deposits, SF (18) and Independent (3)"
+,Lost Deposit association for SF candidate of Ampang Bahru Selatan (Ampang Bahru Local Council) is guessed
+,Lost Deposit association for Independent Candidate (V. Vengidasamy) of Pondok Tanjong Ward (Pondok Tanjong Local Council) is guessed
+,"EC Report states total votes for Alliance is 70980, while Tindak computations state it is 71142"
+,"EC Report states total votes for SF is 8755, while Tindak computation states it is 8912"
+,"EC Report states total votes for  PPP is 60134, while Tindak computation states it is 59429"
+,"EC Report states total votes for Independent is 8236, while Tindak computations state it is 9338"
+,Component party association for Alliance in Tasek Ward (Tasek Local Council) is guessed
+,
+,Perlis
+,"EC report states total votes for Alliance is 4181, while Tindak computations state it is 4091"
+,"EC report states total votes for Independents is 386, while Tindak computations state it is 376"
+,
+,Selangor
+,"EC report states total votes for Independents is 1620, while Tindak computations state it is 3620"
+,"EC report states the total rejected vote count is 18, while Tindak computations state it is 697"
+,"EC report states the total electorate is 36222, while Tindak computations state it is 36122"
+,Lost Deposit association for Independent Candidate (R. Mahmud bin R. Omar) of Tanjong Karang Kilang Tempatan Ward (Tanjong Karang Local Council) is guessed
+,Lost Deposit association for Independent Candidate of Cheras Tempatan Kedua Ward (11th Mile Cheras Local Council) is guessed
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+LOCAL AUTHORITY AREA,Name of the Local Council
+LOCAL AUTHORITY WARD,Ward Name of the Local Council
+COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejected Ballots/ Total Ballot Issued/ Total Electorate/Turnout (%)
+CANDIDATE NAME,Name of the Contesting Candidate
+CANDIDATE SEX,Sex Category of the Contesting Candidate
+CANDIDATE AGE,Age of the Contesting Candidate
+VOTES,Votes for Candidates and Count of Rejected Ballots
+STATUS,Won/ Lost/ Lost Deposit Status for the Candidates
+UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+SF,Malayan People's Socialist Front
+UMNO,United Malays National Organisation
+MCA,Malayan Chinese Association
+MIC,Malayan Indian Congress
+NEGARA,Parti Negara
+PMIP,Pan Malayan Islamic Party
+PPP,People's Progressive Party
