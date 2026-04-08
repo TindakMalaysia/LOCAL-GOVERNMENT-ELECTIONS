@@ -6,3 +6,6 @@ Hosting the 1961 Local Government Elections datasets and associated metadata fil
 **NOTICE OF UPDATE (1/4/2026)
 - Added a file showing Vote and Seat Distribution for every local government for the 1961 Elections. This is based on Tindak Malaysia's interpretation. One should read the metadata for the 1961 elections to understand discrepancies underpinning the dataset
 - Added a file showing Vote and Seat Distribution at the state level for the 1961 Election. This data comes strictly from the Election Commission's 1961 report and Tindak Malaysia doesn't vouch for complete accuracy of the presented data by the Election Commission report
+**NOTICE OF CORRECTION (8/4/2026)
+- Correction on dates for Local Government Election Details
+- Correction for Vote and Seat Distribution for Election Commission
