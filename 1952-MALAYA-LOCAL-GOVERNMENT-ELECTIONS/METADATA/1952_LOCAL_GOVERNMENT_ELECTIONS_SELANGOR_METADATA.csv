@@ -1,0 +1,41 @@
+﻿Created on,16/7/2026
+Created by,TINDAKMALAYSIA NETWORK SERVICES PLT (TINDAK MALAYSIA)
+Sources,"Federation of Malaya Gazette (Selangor) 28th February 1952, Supplement to Federation of Malaya Gazette (Selangor) 14th November 1952, Supplement to Federation of Malaya Gazette (Selangor) 15th December 1952. Refer to the Other Sources section of the Metadata to learn additional sources used for the data sheets"
+Disclaimers,"For the February 1952 elections, candidate spellings and symbols follow the 1952 Federation of Malaya Gazette (Selangor), 28th February 1952. For the December 1952 elections, canddiate spellings and symbols follow the 1952 Federation of Malaya Gazette (Selangor), 14th November 1952. Even though candidates affiliated with political parties were allowed to contest, no party logos were used as candidate symbols. No information about candidates losing deposits. No turnout data was provided. TindakMalaysia Network Services PLT is not responsible for any errors or omissions arising from the original data or its derivatives."
+,
+Other Sources,
+February 1952 & December 1952,
+"Rentpayers Name 2 For Elections Singapore Standard, 10 January 1952, Page 4",
+"Results SENTUL, The Straits Times, 17 February 1952, Page 1",
+"BUNGSAR, The Straits Times, 17 February 1952, Page 1",
+"PETALING, The Straits Times, 17 February 1952, Page 1",
+"IMBI, The Straits Times, 17 February 1952, Page 1",
+"The Singapore Free Press, 5 December 1952, Page 5",
+"Former politician and businessman Douglas K.K. Lee dies aged 98. (2022, May 2). The Vibes. https://www.thevibes.com/articles/news/60026/former-politician-and-businessman-douglas-k.k-lee-dies-aged-98",
+"Bernama. (2024, January 21). Wanita pertama dalam perkhidmatan awam Devaki Krishnan meninggal dunia. Berita Harian. https://www.bharian.com.my/berita/nasional/2024/01/1202785/wanita-pertama-dalam-perkhidmatan-awam-devaki-krishnan-meninggal",
+"Lee Yoon Thim. (2021, February 7). History Insights - Malaya. https://web.facebook.com/historyinsightsMY/posts/lee-yoon-thimlee-yoon-thim-1905-1977-or-better-known-as-y-t-lee-practised-as-an-/781431335789585/?_rdc=1&_rdr#",
+"Omar Yoke-Lin Ong, the last of the Independence Fighters. (n.d.). https://viweb.org/OmarOng.htm",
+TindakMalaysia. (n.d.). GitHub - TindakMalaysia/HISTORICAL-ELECTION-RESULTS: Repository for historical election results of Malaysia at the DUN and federal level. GitHub. https://github.com/TindakMalaysia/HISTORICAL-ELECTION-RESULTS,
+,
+Attribute,
+,
+FIELD NAME,FIELD DESCRIPTION
+LOCAL AUTHORITY AREA,Name of the Municipality/Local Authority/Local Council
+LOCAL AUTHORITY WARD,Ward Name of the Municipality/Local Authority/Local Council
+COALITION/PARTY/VOTE CATEGORY,Name of the Coalition-Party/ Independents/ Rejected Ballots/ Ballot Papers found in Ballot Box/ Unused Ballot Papers undetached from Ballot Box/Spoiled Ballot Papers/Total Ballot Issued/ Total Electors
+CANDIDATE NAME,Name of the Contesting Candidate
+CANDIDATE SEX,Sex Category of the Contesting Candidate
+CANDIDATE AGE,Age of the Contesting Candidate
+VOTES,Votes for Candidates/ Rejected Ballots/ Ballot Papers found in Ballot Box/ Unused Ballot Papers undetached from Ballot Box/Spoiled Ballot Papers/Total Ballot Issued/ Total Electors
+STATUS,Won/ Lost
+UNCONTESTED VICTORY,"If the candidate won uncontested, 'Y' is affixed. If there is a contested seat, no value is affixed"
+,
+Key Definitions,
+"A spoiled ballot paper means a ballot paper which, on polling day has not been deposited in the ballot box, but has been found by the presiding officer to be spoiled or improperly printed or which has been handed by the presiding officer to an elector to cast his vote, and (a) has been spoiled in marking by the elector, and (b) has been handed back to the presiding officer and exchanged for another",
+"A rejected ballot paper means a ballot paper which has been handed by the presiding officer to an elector to cast his vote but which, at the close of the poll, has been found in the ballot box unmarked or so improperly marked that it cannot be counted.",
+,
+KEY ABBREVIATIONS FOR POLITICAL PARTIES,
+UMNO - MCA,United Malays National Organisation - Malayan Chinese Association
+LABOUR,Selangor Labour Party
+IMP,Independence of Malaya Party
+RENTPAYERS,Selangor Rentpayers Association
